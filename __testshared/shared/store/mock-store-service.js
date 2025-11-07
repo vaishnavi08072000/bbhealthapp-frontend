@@ -19,7 +19,7 @@ const loggedInStoreDetails = {
         "gender": "FEMALE",
         "address": "240/D - Windsor Drive,Bangalore",
         "firstName": "user",
-        "email": "user@upgrad.com",
+        "email": "user@binarybrains.com",
         "lastName": "",
         "phoneNumber": "9629155718",
         "pinCode": 560003,

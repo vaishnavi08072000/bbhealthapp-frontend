@@ -65,7 +65,7 @@ function RequestTest() {
     // const [name, setName] = useState('user');
     // const [address, setAddress] = useState('some address ,some day');
     // const [age, setAge] = useState('25')
-    // const [email, setEmail] = useState('user@upgrad.com');
+    // const [email, setEmail] = useState('user@binarybrains.com');
     // const [gender, setGender] = useState("MALE");
     // const [phoneNumber,setPhoneNumber] = useState("45454545");
     // const [pinCode, setPinCode] = useState('45787878');

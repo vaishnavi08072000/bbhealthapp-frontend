@@ -1,6 +1,6 @@
 import {AppBar, Button, Link, React, Toolbar, Typography, useDispatch, useHistory, useSelector,} from "./index"
 import {makeStyles} from '@material-ui/core/styles';
-import upgrad_logo from "../upgrad.png"
+import binarybrains_logo from "../binarybrains.png"
 import {useLocation} from 'react-router-dom';
 import {doLogout} from "../auth/authDispatcher";
 
@@ -99,14 +99,14 @@ const location =useLocation();
             <AppBar position="static" color="default" elevation={0} className={classes.appBar}>
                 <Toolbar className={classes.toolbar}>
 
-                    <img src={upgrad_logo} height="30" alt="Upgrad"/>
+                    <img src={binarybrains_logo} height="30" alt="BinaryBrains"/>
 
                     <Typography variant="h6" color="inherit" noWrap className={classes.toolbarTitle}>
                         &nbsp;
 
                         <Button component={Link} variant="text" to="/" className={classes.link}>
 
-                            Upgrad Labs
+                            BinaryBrains Labs
                         </Button>
                     </Typography>
 

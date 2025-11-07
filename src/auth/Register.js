@@ -66,7 +66,7 @@ function Register() {
     const [userName, setUserName] = useState('user');
     const [firstName, setFirstName] = useState('user');
     const [lastName, setLastName] = useState('uslast');
-    const [email, setEmail] = useState('user@upgrad.com');
+    const [email, setEmail] = useState('user@binarybrains.com');
     const [dateOfBirth, setDateOfBirth] = useState('1981-11-21');
     const [password, setPassword] = useState('password');
     const [confirmPassword, setConfirmPassword] = useState('password');
