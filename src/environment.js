@@ -25,7 +25,7 @@ const DOWNLOAD_BASE_URL = "http://"+docSvc+":8082/documents/download/";
 
 
 export const environment = {
-  baseUrl : masterSvc,
+  baseUrl : "http://54.83.117.150:8080",
   DOCUMENT_UPLOAD_URL,
   REGISTER_URL,
   DOCTOR_REGISTER_URL,
